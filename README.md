@@ -1,7 +1,7 @@
 # i1470s-Roblox-Cheats
 My roblox cheats
 
-Installation is simple! this is signed code so you wont have issues with antivirus tho you may when injecting!
+Installation is simple! this is signed code so you wont have issues with antivirus tho you may when downloading with google chrome!!!
 
 Just run the exe pretty simple :P
 
