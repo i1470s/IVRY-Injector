@@ -1,4 +1,4 @@
-# i1470s-Roblox-Cheats
+# Roblox-Cheats
 My roblox cheats
 
 # Installation is simple! you may have issues with antivirus when downloading with google chrome!!! after wards Just run the exe pretty simple :P
